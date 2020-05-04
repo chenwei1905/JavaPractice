@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60404f05-5622-479d-be39-63f069dc69f6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/daodaoyuyu/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\daodaoyuyu\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1D77d7FzE4reUtdd4P3AgwEep" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CollectionsTest.map">
+    <configuration name="CollectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataSet.CollectionTest" />
+      <module name="flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollUtilsTest.collJoin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flink" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CollUtilsTest" />
+      <option name="METHOD_NAME" value="collJoin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionsTest.comparable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flink" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTest" />
+      <option name="METHOD_NAME" value="comparable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionsTest.map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flink" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTest" />
+      <option name="METHOD_NAME" value="map" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionTest.Lambda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flink" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FunctionTest" />
+      <option name="METHOD_NAME" value="Lambda" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CollectionsTest.map" />
+        <item itemvalue="JUnit.CollectionsTest.comparable" />
+        <item itemvalue="Application.CollectionTest" />
+        <item itemvalue="JUnit.FunctionTest.Lambda" />
+        <item itemvalue="JUnit.CollUtilsTest.collJoin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60404f05-5622-479d-be39-63f069dc69f6" name="Default Changelist" comment="" />
+      <created>1585894035655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585894035655</updated>
+      <workItem from="1585894040087" duration="2645000" />
+      <workItem from="1586221142905" duration="1075000" />
+      <workItem from="1586481120813" duration="2197000" />
+      <workItem from="1586826003427" duration="597000" />
+      <workItem from="1586836173925" duration="571000" />
+      <workItem from="1586912693753" duration="6572000" />
+      <workItem from="1586950068371" duration="21000" />
+      <workItem from="1587028240497" duration="623000" />
+      <workItem from="1587351743587" duration="1670000" />
+      <workItem from="1587391602591" duration="787000" />
+      <workItem from="1587392739009" duration="2575000" />
+      <workItem from="1587459615614" duration="1038000" />
+      <workItem from="1587462273783" duration="6495000" />
+      <workItem from="1587478308622" duration="3871000" />
+      <workItem from="1587548541884" duration="1237000" />
+      <workItem from="1587603600051" duration="2473000" />
+      <workItem from="1587647388344" duration="834000" />
+      <workItem from="1587728873038" duration="1668000" />
+      <workItem from="1587780681813" duration="3095000" />
+      <workItem from="1587845475277" duration="585000" />
+      <workItem from="1587864155198" duration="634000" />
+      <workItem from="1587916125933" duration="2000000" />
+      <workItem from="1588061828690" duration="930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
