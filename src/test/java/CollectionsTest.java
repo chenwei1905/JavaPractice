@@ -99,6 +99,7 @@ public class CollectionsTest {
 
         System.out.println("*********流的测试*************8");
         System.out.println(list);
+        //comparable和Comparator
 
     }
 
